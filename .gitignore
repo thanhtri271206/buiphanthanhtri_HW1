@@ -1,2 +1,6 @@
 target/
 lib/
+
+mvnw
+mvnw.cmd
+.mvn/
